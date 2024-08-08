@@ -4,11 +4,30 @@
   
     
     <entry>
-      <title>杭州植物园</title>
-      <link href="/archives/1ab2c31a.html"/>
-      <url>/archives/1ab2c31a.html</url>
+      <title>生日快乐 祝我自己</title>
+      <link href="/year/08/09/%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90/"/>
+      <url>/year/08/09/%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img src="https://cdn.jsdelivr.net/gh/xusuxxx/picture/img/SAM_1425.JPG" alt="SAM_1425"></p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><em><strong>19岁啦</strong></em></p><p>“大男儿志在四方”</p><p>19岁的徐苏耀去更多的地方，去见更大的世界</p><p>希望自己的羽毛球技术越来越好，人也能变瘦一点</p><p><em><strong>总之，祝自己接下来都是鲜花锦簇的上坡路</strong></em></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> happybir.jpg </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>浙商大</title>
+      <link href="/year/08/08/%E6%B5%99%E5%B7%A5%E5%95%86/"/>
+      <url>/year/08/08/%E6%B5%99%E5%B7%A5%E5%95%86/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><em><strong>我镜头中浙商大</strong></em><br><img src="https://cdn.jsdelivr.net/gh/xusuxxx/picture/img/SAM_0718.JPG" alt="SAM_0718"><br><img src="https://img1.baidu.com/it/u=833254055,141371655&fm=253&fmt=auto&app=120&f=JPEG?w=750&h=500"></p>]]></content>
       
       
       <categories>
@@ -23,9 +42,28 @@
     
     
     <entry>
+      <title>github+hexo搭建个人博客</title>
+      <link href="/year/08/07/github+hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+      <url>/year/08/07/github+hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><em><strong>hexo+github搭建个人博客网站的b站教学视频</strong></em></p><p><a href="https://www.bilibili.com/video/BV1Hi421a7K4/?spm_id_from=333.788.top_right_bar_window_default_collection.content.click&vd_source=d98f6e29928f22a42feaaaef6d36816f">b站视频</a></p><p>我的hexo主题为:<br><a href="https://butterfly.js.org/">butterfly</a></p><p><em><strong>hexo常用命令:</strong></em></p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">Hexo cl <span class="comment">#清除</span></span><br><span class="line">Hexo s <span class="comment">#启动</span></span><br><span class="line">Hexo d <span class="comment">#更新到github上</span></span><br><span class="line">hexo clean &amp;&amp; hexo g -d <span class="comment">#一键部署上传</span></span><br><span class="line">hexo g -s <span class="comment">#生成并本地预览</span></span><br><span class="line">hexo g -d <span class="comment">#生成并上传</span></span><br><span class="line">hexo new <span class="string">&quot;postName&quot;</span> <span class="comment">#新建文章</span></span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> 技术 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>小记</title>
-      <link href="/archives/ea22618.html"/>
-      <url>/archives/ea22618.html</url>
+      <link href="/year/08/07/%E5%B0%8F%E8%AE%B0/"/>
+      <url>/year/08/07/%E5%B0%8F%E8%AE%B0/</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><em><strong>“你要独自一人走那漫长的路，去见那心中独一无二的远方”</strong></em></p>]]></content>
       

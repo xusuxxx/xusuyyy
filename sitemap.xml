@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://xusuy.zeabur.app/archives/1ab2c31a.html</loc>
+    <loc>https://xusuy.zeabur.app/year/08/09/%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90/</loc>
     
     <lastmod>2024-08-08</lastmod>
     
@@ -11,7 +11,25 @@
   </url>
   
   <url>
-    <loc>https://xusuy.zeabur.app/archives/ea22618.html</loc>
+    <loc>https://xusuy.zeabur.app/year/08/07/%E5%B0%8F%E8%AE%B0/</loc>
+    
+    <lastmod>2024-08-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://xusuy.zeabur.app/year/08/08/%E6%B5%99%E5%B7%A5%E5%95%86/</loc>
+    
+    <lastmod>2024-08-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://xusuy.zeabur.app/year/08/07/github+hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</loc>
     
     <lastmod>2024-08-08</lastmod>
     
@@ -62,7 +80,21 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://xusuy.zeabur.app/tags/happybir-jpg/</loc>
+    <lastmod>2024-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>https://xusuy.zeabur.app/categories/%E6%8A%80%E6%9C%AF/</loc>
+    <lastmod>2024-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
   <url>
     <loc>https://xusuy.zeabur.app/categories/%E9%A3%8E%E6%99%AF/</loc>
