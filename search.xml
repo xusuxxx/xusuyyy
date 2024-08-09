@@ -36,6 +36,25 @@
     
     
     <entry>
+      <title>github+hexo搭建个人博客</title>
+      <link href="/xusuyyy.github.io/year/08/07/github+hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+      <url>/xusuyyy.github.io/year/08/07/github+hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\xusuyyy.github.io\assets\css\APlayer.min.css"><script src="\xusuyyy.github.io\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><em><strong>hexo+github搭建个人博客网站的b站教学视频</strong></em></p><p><a href="https://www.bilibili.com/video/BV1Hi421a7K4/?spm_id_from=333.788.top_right_bar_window_default_collection.content.click&vd_source=d98f6e29928f22a42feaaaef6d36816f">b站视频</a></p><p>我的hexo主题为:<br><a href="https://butterfly.js.org/">butterfly</a></p><p><em><strong>hexo常用命令:</strong></em></p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">Hexo cl <span class="comment">#清除</span></span><br><span class="line">Hexo s <span class="comment">#启动</span></span><br><span class="line">Hexo d <span class="comment">#更新到github上</span></span><br><span class="line">hexo clean &amp;&amp; hexo g -d <span class="comment">#一键部署上传</span></span><br><span class="line">hexo g -s <span class="comment">#生成并本地预览</span></span><br><span class="line">hexo g -d <span class="comment">#生成并上传</span></span><br><span class="line">hexo new <span class="string">&quot;postName&quot;</span> <span class="comment">#新建文章</span></span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> 技术 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>小记</title>
       <link href="/xusuyyy.github.io/year/08/07/%E5%B0%8F%E8%AE%B0/"/>
       <url>/xusuyyy.github.io/year/08/07/%E5%B0%8F%E8%AE%B0/</url>
@@ -55,25 +74,6 @@
             <tag> 文案 </tag>
             
         </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>github+hexo搭建个人博客</title>
-      <link href="/xusuyyy.github.io/year/08/07/github+hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
-      <url>/xusuyyy.github.io/year/08/07/github+hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\xusuyyy.github.io\assets\css\APlayer.min.css"><script src="\xusuyyy.github.io\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><em><strong>hexo+github搭建个人博客网站的b站教学视频</strong></em></p><p><a href="https://www.bilibili.com/video/BV1Hi421a7K4/?spm_id_from=333.788.top_right_bar_window_default_collection.content.click&vd_source=d98f6e29928f22a42feaaaef6d36816f">b站视频</a></p><p>我的hexo主题为:<br><a href="https://butterfly.js.org/">butterfly</a></p><p><em><strong>hexo常用命令:</strong></em></p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">Hexo cl <span class="comment">#清除</span></span><br><span class="line">Hexo s <span class="comment">#启动</span></span><br><span class="line">Hexo d <span class="comment">#更新到github上</span></span><br><span class="line">hexo clean &amp;&amp; hexo g -d <span class="comment">#一键部署上传</span></span><br><span class="line">hexo g -s <span class="comment">#生成并本地预览</span></span><br><span class="line">hexo g -d <span class="comment">#生成并上传</span></span><br><span class="line">hexo new <span class="string">&quot;postName&quot;</span> <span class="comment">#新建文章</span></span><br></pre></td></tr></table></figure>]]></content>
-      
-      
-      <categories>
-          
-          <category> 技术 </category>
-          
-      </categories>
-      
       
     </entry>
     
